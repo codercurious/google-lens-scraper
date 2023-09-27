@@ -1,4 +1,5 @@
-# [Google lens scraper](https://apify.com/curious_coder/facebook-scraper)
+# Google Lens Scraper
+Interested in using this scraper? Get it here: [Google Lens Scraper](https://apify.com/curious_coder/google-lens-scraper)
 ## Sample data
 Here are some examples of input images and corresponding output of the scraper:
 ### Reverse image search
