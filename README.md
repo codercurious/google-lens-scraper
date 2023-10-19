@@ -1,5 +1,5 @@
 # Google Lens Scraper
-Interested in using this scraper? Get it here: [Google Lens Scraper](https://apify.com/curious_coder/google-lens-scraper)
+Interested in using this scraper? Get it here: [Google Lens Scraper](https://apify.com/curious_coder/google-lens-scraper?fpr=ve081&fp_sid=github_google-lens-scraper)
 ## Sample data
 Here are some examples of input images and corresponding output of the scraper:
 ### Reverse image search
